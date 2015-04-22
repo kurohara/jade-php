@@ -23,6 +23,6 @@
   "dependencies": {
     "constantinople": "~1.0.1",
     "character-parser": "~1.2.0",
-    "jade": "~0.35.0"
+    "jade": "~1.9.2"
   }
 }
